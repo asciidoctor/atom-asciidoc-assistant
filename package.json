@@ -1,0 +1,28 @@
+{
+  "name": "asciidoc-assistant",
+  "description": "Makes working with AsciiDoc in Atom awesome.",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "keywords": [
+    "asciidoctor",
+    "asciidoc",
+    "assistant",
+    "writer"
+  ],
+  "repository": "https://github.com/asciidoctor/atom-asciidoc-assistant",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.5.3 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "~4.0.1"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.15.0"
+  },
+  "package-deps": [
+    "language-asciidoc",
+    "autocomplete-asciidoc",
+    "asciidoc-preview"
+  ]
+}
