@@ -22,7 +22,8 @@
   },
   "package-deps": [
     "language-asciidoc",
+    "asciidoc-preview",
     "autocomplete-asciidoc",
-    "asciidoc-preview"
+    "asciidoc-image-helper"
   ]
 }
