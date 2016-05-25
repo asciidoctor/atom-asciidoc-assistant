@@ -1,7 +1,7 @@
 {
   "name": "asciidoc-assistant",
   "description": "Makes working with AsciiDoc in Atom awesome.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./lib/main",
   "keywords": [
     "asciidoctor",
