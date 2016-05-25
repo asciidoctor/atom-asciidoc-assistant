@@ -9,5 +9,6 @@
 This package adds extra functionality to Atom for the AsciiDoc(octor) language by installing the following packages:
 
 - [language-asciidoc](https://github.com/asciidoctor/atom-language-asciidoc)
-- [autocomplete-asciidoc](https://github.com/asciidoctor/atom-autocomplete-asciidoc)
 - [asciidoc-preview](https://github.com/asciidoctor/atom-asciidoc-preview)
+- [autocomplete-asciidoc](https://github.com/asciidoctor/atom-autocomplete-asciidoc)
+- [asciidoc-image-helper](https://github.com/asciidoctor/atom-asciidoc-image-helper)
