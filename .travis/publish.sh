@@ -4,7 +4,7 @@ set -e
 ## Custom variables
 USER_EMAIL="docbot@asciidoctor.org"
 USER_NAME="Asciidoctor DocBot"
-GIT_REPOSITORY="git@github.com:asciidoctor/atom-autocomplete-asciidoc.git"
+GIT_REPOSITORY="git@github.com:asciidoctor/atom-asciidoc-assistant.git"
 SSH_KEY_NAME="travis_rsa"
 AUTHORIZED_BRANCH="master"
 PUBLISH_TYPE=${PUBLISH_TYPE:="patch"}
