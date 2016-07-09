@@ -34,5 +34,5 @@ addons:
     - libgnome-keyring-dev
     - fakeroot
 
-# after_success:
-#   - ./.travis/publish.sh
+after_success:
+  - ./.travis/publish.sh
