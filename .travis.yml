@@ -21,6 +21,7 @@ branches:
 env:
   global:
     - APM_TEST_PACKAGES="language-asciidoc autocomplete-asciidoc asciidoc-preview"
+    - AUTHORIZED_BRANCH="master"
 
   matrix:
     - ATOM_CHANNEL=stable
