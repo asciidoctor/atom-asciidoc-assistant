@@ -11,10 +11,9 @@ describe 'asciidoc-assistant', ->
           mainModule = pack.mainModule
           return
 
-    describe 'when the asciidoc-assistant package is activated', ->
-
-      it 'activates successfully', ->
-        expect(mainModule).toBeDefined()
-        expect(mainModule).toBeTruthy()
-        expect(mainModule.activate).toBeDefined()
-        expect(mainModule.deactivate).toBeDefined()
+  describe 'when the asciidoc-assistant package is activated', ->
+    it 'activates successfully', ->
+      expect(mainModule).toBeDefined()
+      expect(mainModule).toBeTruthy()
+      expect(mainModule.activate).toBeDefined()
+      expect(mainModule.deactivate).toBeDefined()

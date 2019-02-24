@@ -15,10 +15,10 @@
     "atom": ">=1.5.3 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "~4.0.1"
+    "atom-package-deps": "~5.0.0"
   },
   "devDependencies": {
-    "coffeelint": "^1.15.0"
+    "coffeelint": "^2.1.0"
   },
   "package-deps": [
     "language-asciidoc",
